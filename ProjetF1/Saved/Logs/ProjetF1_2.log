@@ -10052,3 +10052,11 @@ Make sure 'Cylinder009_Blueprint_C' has been compiled for  Get Cube
 [2020.12.17-10.17.35:807][850]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.17-10.17.35:808][850]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
 [2020.12.17-10.17.35:808][850]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData
+[2020.12.17-10.48.14:130][912]LogEditorViewport: Clicking on Actor (LMB): Cylinder001_Blueprint_C (Cylinder001_Blueprint)
+[2020.12.17-10.48.15:285][933]LogEditorViewport: Clicking on Actor (LMB): Voiture_C (Voiture)
+[2020.12.17-10.48.16:218][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.17-10.48.17:759][  6]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.17-10.48.29:437][347]LogEditorViewport: Clicking on Actor (LMB): roue_C (roue)
+[2020.12.17-10.48.31:248][401]LogEditorViewport: Clicking on Actor (LMB): Voiture_C (Voiture)
+[2020.12.17-10.48.32:600][441]LogEditorViewport: Clicking on Actor (LMB): roue_C (roue)
+[2020.12.17-10.50.19:028][109]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
